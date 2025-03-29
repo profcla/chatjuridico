@@ -1,0 +1,7 @@
+openai>=1.0.0
+streamlit>=1.32.0
+pandas>=2.0.0
+python-dotenv>=1.0.0
+transformers  # Para NLP jurídico
+google-api-python-client  # Integração com Google Calendar (agendamento)
+sqlalchemy  # Banco de dados local (CRM)
