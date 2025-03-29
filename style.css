@@ -1,0 +1,14 @@
+/* Estilos customizados */
+.stChatMessage {
+    border-radius: 15px;
+    margin: 1rem 0;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.stAlert {
+    font-family: 'Helvetica Neue', sans-serif;
+}
+
+.stSidebar {
+    background: #f8f9fa;
+}
